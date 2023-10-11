@@ -13,17 +13,17 @@
 # For the above class, let us try to access all these attributes −
 
 
-class Employee:
-    def __init__(self, name="Bhavana", age=24):
+class Intern:
+    def __init__(self, name="Sikaundi", age=50):
         self.name = name
         self.age = age
 
-    def displayEmployee(self):
+    def displayIntern(self):
         print("Name : ", self.name, ", age: ", self.age)
 
 
-print("Employee.__doc__:", Employee.__doc__)
-print("Employee.__name__:", Employee.__name__)
-print("Employee.__module__:", Employee.__module__)
-print("Employee.__bases__:", Employee.__bases__)
-print("Employee.__dict__:", Employee.__dict__)
+print("Intern.__doc__:", Intern.__doc__)
+print("Intern.__name__:", Intern.__name__)
+print("Intern.__module__:", Intern.__module__)
+print("Intern.__bases__:", Intern.__bases__)
+print("Intern.__dict__:", Intern.__dict__)
