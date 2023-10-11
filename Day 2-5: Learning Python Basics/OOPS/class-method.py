@@ -15,7 +15,12 @@ class Student:
     
     
 # Example
-# In the Employee class, define a showcount() instance method with the "self" argument (reference to calling object). It prints the value of empCount. Next, transform the method to class method counter() that can be accessed through the class reference.
+# In the Employee class, define a showcount() 
+# instance method with the "self" argument 
+# (reference to calling object). It prints the 
+# value of empCount. Next, transform the method 
+# to class method counter() that can be accessed 
+# through the class reference.
 
 class Employee:
     emptyCount = 0
