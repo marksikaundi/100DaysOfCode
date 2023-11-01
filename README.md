@@ -13,8 +13,6 @@
 
 _Welcome to my 100 Days Of Code Challenge! This journey is all about committing to coding for 100 consecutive days to improve my programming skills and work on exciting projects. I will be documenting my progress and learning experiences day by day._
 
-## Log
-
 ## Day 1: Setting up the Development Environment
 
 Today, I set up my development environment. I installed my preferred code editor, set up version control with Git, and organized my project folders. I'm ready to start coding!
