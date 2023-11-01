@@ -1,6 +1,6 @@
 # 100DaysOfCode Challenge
 
-## Rules
+## Rules to Follow
 
 1. Code minimum an hour every day for the next 100 days.
 2. Tweet your progress every day with the #100DaysOfCode hashtag.
